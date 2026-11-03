@@ -1,37 +1,36 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://example.com/replace-with-actual-uploaded-banner-url-or-relative-path/image_0.png" width="100%" alt="DevOps and Cloud Banner Image"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1b26,50:7aa2f7,100:bb9af7&section=header&animation=twinkling" width="100%" alt="Header banner"/>
 
 <br/>
 
 <!-- DYNAMIC WELCOME TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&duration=2500&pause=1500&color=00D2FF&center=true&vCenter=true&repeat=false&width=800&height=90&lines=[YOUR+NAME]" alt="YOUR NAME"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&duration=2500&pause=1500&color=bb9af7&center=true&vCenter=true&repeat=false&width=800&height=90&lines=[Your+Name]" alt="[Your Name]"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=24&duration=2600&pause=900&color=E2F3FF&center=true&vCenter=true&width=800&height=50&lines=DevOps+Engineer+%7C+Cloud+%7C+DevSecOps;Automating+Cloud+Infrastructure;Building+CI%2FCD+Pipelines;Docker+%7C+Kubernetes+%7C+AWS;Integrating+Security+into+DevOps" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=24&duration=2600&pause=900&color=7aa2f7&center=true&vCenter=true&width=800&height=50&lines=Java+Full+Stack+%7C+DevOps+Engineer;Spring+Boot+%7C+React+%7C+Oracle+SQL;Docker+%7C+Kubernetes+%7C+AWS;Bridging+Development+and+Operations" alt="Animated introduction"/>
 
 <br/>
 
 <!-- GLOWING HIGHLIGHT BADGES -->
-<img src="https://img.shields.io/badge/EXPERIENCE-[X]%20YEARS-00D2FF?style=for-the-badge&labelColor=0c1020" alt="Experience"/>
-<img src="https://img.shields.io/badge/BASED%20IN-[YOUR%20LOCATION]-00D2FF?style=for-the-badge&labelColor=0c1020" alt="Location"/>
-<img src="https://img.shields.io/badge/FOCUS-CLOUD%20%C2%B7%20CI%2FCD%20%C2%B7%20DEVSECOPS-00D2FF?style=for-the-badge&labelColor=0c1020" alt="Focus"/>
+<img src="https://img.shields.io/badge/EXPERIENCE-[X]%20YEARS-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="Experience"/>
+<img src="https://img.shields.io/badge/BASED%20IN-[YOUR%20LOCATION]-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="Location"/>
+<img src="https://img.shields.io/badge/FOCUS-JAVA%20%C2%B7%20CLOUD%20%C2%B7%20CI%2FCD-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="Focus"/>
 
 <br/><br/>
 
 <!-- QUICK CONTACT & CONNECTS -->
-<a href="https://www.linkedin.com/in/[Your-LinkedIn-Username]/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a mailto:href="mailto:[your-email]@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/[Your-GitHub-Username]"><img src="https://img.shields.io/github/followers/[Your-GitHub-Username]?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=00D2FF&labelColor=0c1020" alt="GitHub followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=[Your-GitHub-Username]&style=flat-square&color=00D2FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://www.linkedin.com/in/[Your-LinkedIn-Username]/"><img src="https://img.shields.io/badge/LinkedIn-Connect-bb9af7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/></a>
+<a mailto:href="mailto:[your-email]@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-bb9af7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email"/></a>
+<a href="https://github.com/[Your-GitHub-Username]"><img src="https://img.shields.io/github/followers/[Your-GitHub-Username]?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=7aa2f7&labelColor=1a1b26" alt="GitHub followers"/></a>
 
 </div>
 
 <!-- NEON DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0c1020,50:00D2FF,100:0c1020" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1a1b26,50:bb9af7,100:1a1b26" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=ABOUT+ME" alt="About me"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=bb9af7&center=true&vCenter=true&repeat=false&width=700&height=55&lines=ABOUT+ME" alt="About me"/>
 </div>
 
 <table>
@@ -40,16 +39,14 @@
 
 ### Hello, I'm [Your Name] 👋
 
-DevOps & Cloud Engineer based in **[Your Location]** with **[X] years of experience** crafting reliable systems, automating CI/CD, and scaling environments. 
+I am a **Java Full Stack & DevOps Engineer** who builds robust enterprise applications and automates the infrastructure they run on. 
 
-I help teams deploy faster, safer, and with resilient observability by leveraging the best DevOps and security practices.
+I bridge the gap between writing efficient application code and ensuring highly available, secure deployments.
 
-- ☁️ Cloud infrastructure on **AWS / Azure / GCP**
-- 🧱 Infrastructure as Code with **Terraform / Ansible**
-- 🔄 CI/CD automation with **Jenkins / GitHub Actions**
-- 📦 Containerization with **Docker**
-- ☸️ Orchestration with **Kubernetes**
-- 🛡️ Security scanning with **SonarQube / Trivy**
+- ☕ **Backend:** Java, Spring Boot, Hibernate, Oracle SQL
+- 💻 **Frontend:** React.js, HTML/CSS, JavaScript
+- ☁️ **Cloud & Ops:** AWS, Docker, Kubernetes, Jenkins
+- 🛡️ **Practices:** Microservices, CI/CD, Agile, Test-Driven Development
 
 </td>
 <td width="42%" valign="top">
@@ -59,13 +56,12 @@ $ whoami
 [your-username]
 
 $ cat profile.yml
-role:       DevOps & Cloud Engineer
+role:       Full Stack DevOps
 location:   [Your Location]
-experience: ~[X] years
-core:       [AWS, Terraform, Jenkins,
-             Docker, Kubernetes]
-focus:      [Automation, CI/CD, 
-             DevSecOps, Scale]
+language:   Java, JS/TS, SQL
+frameworks: [Spring Boot, React]
+ops_core:   [Docker, K8s, AWS, 
+             Jenkins, Maven]
 
-$echo$STATUS
-seeking_new_adventures_🚀
+$ echo $STATUS
+deploying_microservices_🚀
