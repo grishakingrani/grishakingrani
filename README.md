@@ -1,67 +1,154 @@
-<div align="center">
+# Grisha Kingrani | Java Full Stack Developer
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1b26,50:7aa2f7,100:bb9af7&section=header&animation=twinkling" width="100%" alt="Header banner"/>
+<p align="center">
+  <img src="./assets/github-banner.png" width="100%" alt="Grisha Kingrani – Developer Portfolio Banner"/>
+</p>
 
-<br/>
+<h1 align="center">Hi, I'm Grisha 👋</h1>
 
-<!-- DYNAMIC WELCOME TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&duration=2500&pause=1500&color=bb9af7&center=true&vCenter=true&repeat=false&width=800&height=90&lines=[Your+Name]" alt="[Your Name]"/>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=9B8CFF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Building+Scalable+Web+Applications;Exploring+Backend+Engineering;Turning+Ideas+Into+Working+Software" alt="Typing animation"/>
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=24&duration=2600&pause=900&color=7aa2f7&center=true&vCenter=true&width=800&height=50&lines=Java+Full+Stack+%7C+DevOps+Engineer;Spring+Boot+%7C+React+%7C+Oracle+SQL;Docker+%7C+Kubernetes+%7C+AWS;Bridging+Development+and+Operations" alt="Animated introduction"/>
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
 
-<br/>
+---
 
-<!-- GLOWING HIGHLIGHT BADGES -->
-<img src="https://img.shields.io/badge/EXPERIENCE-[X]%20YEARS-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="Experience"/>
-<img src="https://img.shields.io/badge/BASED%20IN-[YOUR%20LOCATION]-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="Location"/>
-<img src="https://img.shields.io/badge/FOCUS-JAVA%20%C2%B7%20CLOUD%20%C2%B7%20CI%2FCD-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="Focus"/>
+### ◈ ABOUT ME
 
-<br/><br/>
+I'm a Computer Science undergraduate passionate about building practical software solutions and understanding how applications work behind the scenes.
 
-<!-- QUICK CONTACT & CONNECTS -->
-<a href="https://www.linkedin.com/in/[Your-LinkedIn-Username]/"><img src="https://img.shields.io/badge/LinkedIn-Connect-bb9af7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/></a>
-<a mailto:href="mailto:[your-email]@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-bb9af7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email"/></a>
-<a href="https://github.com/[Your-GitHub-Username]"><img src="https://img.shields.io/github/followers/[Your-GitHub-Username]?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=7aa2f7&labelColor=1a1b26" alt="GitHub followers"/></a>
+- 💻 Focused on **Java Full Stack Development**
+- ⚙️ Exploring backend engineering, REST APIs and database design
+- 🌱 Currently learning **DevOps and modern development workflows**
+- 🧠 Interested in problem-solving, system design and software engineering
+- 🎯 Working towards becoming a professional Software Developer
 
-</div>
+> I believe good software is not just about writing code. It's about solving the right problems.
 
-<!-- NEON DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1a1b26,50:bb9af7,100:1a1b26" width="100%" alt=""/>
+---
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=bb9af7&center=true&vCenter=true&repeat=false&width=700&height=55&lines=ABOUT+ME" alt="About me"/>
-</div>
+### ◈ TECHNOLOGY STACK
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,html,css" alt="Programming languages"/>
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,mysql,nodejs" alt="Backend technologies"/>
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" alt="Frontend technologies"/>
+</p>
+
+**Tools & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,docker,jenkins" alt="Developer tools"/>
+</p>
+
+---
+
+### ◈ SELECTED PROJECTS
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="50%">
 
-### Hello, I'm [Your Name] 👋
+#### 01 / CAMPUS IQ
 
-I am a **Java Full Stack & DevOps Engineer** who builds robust enterprise applications and automates the infrastructure they run on. 
+**A multi-level campus management platform**
 
-I bridge the gap between writing efficient application code and ensuring highly available, secure deployments.
+A role-based application designed to simplify campus-related workflows.
 
-- ☕ **Backend:** Java, Spring Boot, Hibernate, Oracle SQL
-- 💻 **Frontend:** React.js, HTML/CSS, JavaScript
-- ☁️ **Cloud & Ops:** AWS, Docker, Kubernetes, Jenkins
-- 🛡️ **Practices:** Microservices, CI/CD, Agile, Test-Driven Development
+- Multi-level access control
+- Authentication and authorization
+- Backend application development
+
+`Java` `Spring Boot` `MySQL`
+
+[Explore Repository →](YOUR_CAMPUS_IQ_REPO)
 
 </td>
-<td width="42%" valign="top">
+<td width="50%">
 
-```bash
-$ whoami
-[your-username]
+#### 02 / VITAL MESH
 
-$ cat profile.yml
-role:       Full Stack DevOps
-location:   [Your Location]
-language:   Java, JS/TS, SQL
-frameworks: [Spring Boot, React]
-ops_core:   [Docker, K8s, AWS, 
-             Jenkins, Maven]
+**An intelligent health-monitoring concept**
 
-$ echo $STATUS
-deploying_microservices_🚀
+A project exploring wearable sensor data and AI-assisted analysis.
+
+- Raw sensor data processing
+- Machine learning integration
+- LLM-based analysis
+
+`Python` `Machine Learning` `LLM`
+
+[Explore Repository →](YOUR_VITAL_MESH_REPO)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+#### 03 / SCHOOL SIMPLIFIED
+
+**A digital learning and school-management solution**
+
+A project focused on simplifying school-related information and workflows.
+
+`YOUR_TECH_STACK`
+
+[Explore Repository →](YOUR_SCHOOL_SIMPLIFIED_REPO)
+
+</td>
+</tr>
+</table>
+
+---
+
+### ◈ GITHUB ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=9B8CFF&icon_color=9B8CFF&text_color=C9D1D9" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=9B8CFF&text_color=C9D1D9" height="165" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=9B8CFF&fire=9B8CFF&currStreakLabel=9B8CFF" width="80%" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+### ◈ CURRENTLY EXPLORING
+
+- Advanced Java and Spring Boot
+- SQL and database optimisation
+- REST API development
+- DevOps, CI/CD and deployment
+- Data Structures and Algorithms
+
+---
+
+### ◈ LET'S CONNECT
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a> •
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+</p>
+
+<p align="center">
+  <i>Building. Learning. Improving. One commit at a time.</i>
+</p>
